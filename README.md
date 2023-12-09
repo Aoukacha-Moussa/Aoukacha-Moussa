@@ -64,6 +64,18 @@
     <a href="#">
       <img align="center" alt="Logo" height="30" width="40" title="Logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
     </a>
+    <a href="#">
+      <img align="center" alt="Logo" height="30" width="40" title="Logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+    </a>
+    <a href="#">
+      <img align="center" alt="Logo" height="30" width="40" title="Logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+    </a>
+    <a href="#">
+      <img align="center" alt="Logo" height="30" width="40" title="Logo" src="https://cdn.worldvectorlogo.com/logos/django.svg">
+    </a>
+    <a href="#">
+      <img align="center" alt="Logo" height="30" width="40" title="Logo" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png">
+    </a>
    
   </p>
 </div>
